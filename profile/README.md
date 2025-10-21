@@ -26,7 +26,7 @@ Gananīti is the attempt to describe that universal pattern clearly enough that 
 
 | Repository | Essence | Purpose |
 |-------------|----------|----------|
-| [`gananiti/gananiti`](https://github.com/gananiti/gananiti) | **Śāstra** – the canonical texts | Holds the mantras (principles) and yantras (tools) that express the logic of Gananīti. |
+| [`gananiti/shashtra`](https://github.com/gananiti/shashtra) | **Śāstra** – the canonical texts | Holds the mantras (principles) and yantras (tools) that express the logic of Gananīti. |
 | [`gananiti/katha`](https://github.com/gananiti/katha) | **Kathā** – the stories and commentaries | Holds interpretations, parables, and lived experiences that make the ideas human. |
 | [`gananiti/bhumi`](https://github.com/gananiti/bhumi) | **Bhūmi** – the field of practice | The living software that allows people to practice Gananīti through matdān (sharing), matgaḍāna (reflection), and śuddhikāraṇa (cleansing). |
 
