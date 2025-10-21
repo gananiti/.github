@@ -1,6 +1,7 @@
 # .github
 
-# Gananīti  
+# गणनीति (Gananīti)
+
 ### *the way of groups*
 
 ---
