@@ -1,5 +1,3 @@
-# .github
-
 # गणनीति (Gananīti)
 
 ### *the way of groups*
